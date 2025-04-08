@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Calleb Nyambariga</h1>
-<h3 align="center">Am passionate about tech activities that involve Business and IT.</h3>
+<h3 align="center">Am passionate about tech activities that involve Business and IT more specifically on applying my mathematical and statistical knowledge in IT fields so solve problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calleb-byte&label=Profile%20views&color=0e75b6&style=flat" alt="calleb-byte" /> </p>
 
